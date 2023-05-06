@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rvproduct" type="id" />
+    <item name="tvLoadingData" type="id" />
+    <item name="tvproductCategory" type="id" />
+    <item name="tvinnovatorName" type="id" />
+    <item name="tvadditionalDescription" type="id" />
+    <item name="tvproductPrice" type="id" />
+</resources>
